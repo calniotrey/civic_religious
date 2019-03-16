@@ -5192,6 +5192,7 @@ tech_heritage_site = {
 		NOR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 			has_valid_civic = civic_machine_servitor
 		}
 	}
@@ -5237,6 +5238,7 @@ tech_hypercomms_forum = {
 		NOR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 			has_valid_civic = civic_machine_servitor
 		}
 	}
@@ -5274,6 +5276,7 @@ tech_autocurating_vault = {
 		NOR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 			has_valid_civic = civic_machine_servitor
 		}
 	}
@@ -5311,6 +5314,7 @@ tech_holographic_rituals = {
 		OR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 		}
 	}
 	
@@ -5355,6 +5359,7 @@ tech_consecration_fields = {
 		OR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 		}
 	}
 	
@@ -5391,6 +5396,7 @@ tech_transcendent_faith = {
 		OR = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist		
+			has_valid_civic = civic_religious
 		}
 	}
 	
