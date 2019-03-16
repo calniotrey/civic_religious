@@ -1,0 +1,4 @@
+﻿l_english:
+ civic_religious:0 "Religious Past"
+ civic_religious_desc:0 "Even though religion is hardly practiced today, this society has not forgotten it's origins and still regularly visits temples."
+ civic_tooltip_religious_effects:0 "Can build §YTemple§! buildings\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
