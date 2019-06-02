@@ -1,4 +1,4 @@
-﻿l_english:
- civic_religious:0 "Religious Past"
- civic_religious_desc:0 "Even though religion is hardly practiced today, this society has not forgotten it's origins and still regularly visits temples."
+﻿l_french:
+ civic_religious:0 "Racines religieuses"
+ civic_religious_desc:0 "Malgré le peu de pratiques religieuses, cette société n'a pas oublié ses origines et ses temples sont fréquemment visités."
  civic_tooltip_religious_effects:0 "Permet de construire des £building §Ytemples§!\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
